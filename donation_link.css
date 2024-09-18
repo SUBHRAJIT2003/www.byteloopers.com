@@ -1,0 +1,12 @@
+body{
+    background-image: url(IMG/bg_payment.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+h1{
+    color: rgb(219, 24, 30);
+    background-color: rgb(128, 128, 149);
+}
+   
+
